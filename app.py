@@ -16,7 +16,7 @@ def ChatModel():
     return model
 
 with st.sidebar:
-    st.title('🦙💬 Llama 2 Chatbot')
+    st.title('🦙💬 EMGerman Llama2 Chatbot')
 
     chat_model = ChatModel()
 
